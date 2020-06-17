@@ -5,6 +5,9 @@
   "title": "Mock Log",
   "description": "Logs a message",
   "homepage": "https://github.com/fcastill/flogo-contrib-test/tree/master/activity/log",
+  "display": {
+    "icon": "throw-icon.svg"
+  },
   "input": [
     {
       "name": "message",

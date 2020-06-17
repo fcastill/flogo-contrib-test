@@ -5,6 +5,9 @@
   "title": "Mock Timer",
   "description": "Simple Timer trigger",
   "homepage": "https://github.com/fcastill/flogo-contrib-test/tree/master/trigger/timer",
+  "display": {
+    "icon": "clock.svg"
+  },
   "handler": {
     "settings": [
       {
