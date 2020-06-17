@@ -1,0 +1,28 @@
+{
+  "name": "fcastill-log",
+  "type": "flogo:activity",
+  "version": "0.10.0",
+  "title": "Mock Log",
+  "description": "Logs a message",
+  "homepage": "https://github.com/fcastill/flogo-contrib-test/tree/master/activity/log",
+  "input": [
+    {
+      "name": "message",
+      "type": "string",
+      "value": "",
+      "description": "The message to log"
+    },
+    {
+      "name": "addDetails",
+      "type": "boolean",
+      "value": false,
+      "description": "Append contextual execution information to the log message"
+    },
+    {
+      "name": "usePrint",
+      "type": "boolean",
+      "value": false,
+      "description": "Use Print to stdout instead of built-in logger"
+    }
+  ]
+}
