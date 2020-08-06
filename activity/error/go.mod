@@ -1,4 +1,4 @@
-module github.com/project-flogo/contrib/activity/error
+module github.com/fcastill/flogo-contrib-test/activity/error
 
 require (
 	github.com/pkg/errors v0.9.1 // indirect

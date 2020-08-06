@@ -1,10 +1,13 @@
 {
-  "name": "flogo-error",
+  "name": "mock-error",
   "type": "flogo:activity",
   "version": "0.10.0",
-  "title": "Throw Error",
+  "title": "Mock Error",
   "description": "Throws an Error",
-  "homepage": "https://github.com/prject-flogo/contrib/tree/master/activity/error",
+  "homepage": "https://github.com/fcastill/flogo-contrib-test/tree/master/activity/error",
+  "display": {
+    "icon": "activity-error.png"
+  },
   "input":[
     {
       "name": "message",

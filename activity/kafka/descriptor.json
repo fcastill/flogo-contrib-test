@@ -1,10 +1,13 @@
 {
-    "name": "flogo-kafka",
+    "name": "mock-kafka",
     "version": "0.10.0",
-    "title": "Publish Kafka message",
+    "title": "Mock Publish Kafka message",
     "type": "flogo:activity",
     "description": "Publish a message to a kafka topic",
-    "homepage": "https://github.com/project-flogo/contrib/tree/master/activity/kafka",
+    "homepage": "https://github.com/fcastill/flogo-contrib-test/tree/master/activity/kafka",
+    "display": {
+      "icon": "activity-kafka.JPG"
+    },
     "author": "Wendell Nichols <wnichols@tibco.com>",
     "settings":[
       {
