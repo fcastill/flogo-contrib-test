@@ -1,10 +1,13 @@
 {
-  "name": "flogo-kafka",
+  "name": "fcastill-kafka",
   "type": "flogo:trigger",
   "version": "0.10.0",
-  "title": "Receive Kafka Messages",
+  "title": "Mock Receive Kafka Messages",
   "author": "Wendell Nichols <wnichols@tibco.com>",
   "description": "Simple Kafka Trigger",
+  "display": {
+    "icon": "kafka-icon.pdf"
+  },
   "settings": [
     {
       "name": "brokerUrls",

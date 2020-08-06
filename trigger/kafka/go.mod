@@ -1,4 +1,4 @@
-module github.com/project-flogo/contrib/trigger/kafka
+module github.com/fcastill/flogo-contrib-test/trigger/kafka
 
 require (
 	github.com/Shopify/sarama v1.22.0

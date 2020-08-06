@@ -1,10 +1,13 @@
 {
-  "name": "flogo-channel",
+  "name": "fcastill-channel",
   "type": "flogo:trigger",
   "version": "0.10.0",
-  "title": "Listen to Channel",
+  "title": "Mock Listen to Channel",
   "description": "Listens to Channel",
-  "homepage": "https://github.com/project-flogo/contrib/tree/master/trigger/channel",
+  "homepage": "https://github.com/fcastill/flogo-contrib-test/tree/master/trigger/channel",
+  "display": {
+    "icon": "trigger-channel.png"
+  },
   "settings": [
   ],
   "output": [

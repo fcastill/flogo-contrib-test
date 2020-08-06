@@ -12,7 +12,7 @@ import (
 
 const testConfig string = `{
 	"id": "flogo-timer",
-	"ref": "github.com/project-flogo/contrib/trigger/kafka",
+	"ref": "github.com/fcastill/flogo-contrib-test/trigger/kafka",
 	"settings": {
 	  "brokerUrls": "localhost:9092"
 	},

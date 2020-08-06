@@ -1,5 +1,5 @@
 {
-    "name": "mock-kafka",
+    "name": "fcastill-kafka",
     "version": "0.10.0",
     "title": "Mock Publish Kafka message",
     "type": "flogo:activity",

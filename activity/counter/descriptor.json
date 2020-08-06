@@ -1,5 +1,5 @@
 {
-  "name": "mock-counter",
+  "name": "fcastill-counter",
   "type": "flogo:activity",
   "version": "0.10.0",
   "title": "Mock Counter Activity",

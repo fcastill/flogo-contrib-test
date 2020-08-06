@@ -1,4 +1,4 @@
-module github.com/project-flogo/contrib/trigger/channel
+module github.com/fcastill/flogo-contrib-test/trigger/channel
 
 require (
 	github.com/pkg/errors v0.9.1 // indirect
