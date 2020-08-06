@@ -8,7 +8,7 @@ This trigger subscribes to a topic on Kafka cluster and listens for the messages
 
 ### Flogo CLI
 ```bash
-flogo install github.com/project-flogo/contrib/trigger/kafka
+flogo install github.com/fcastill/flogo-contrib-test/trigger/kafka
 ```
 
 ## Configuration
@@ -44,7 +44,7 @@ flogo install github.com/project-flogo/contrib/trigger/kafka
   "triggers": [
     {
       "id": "flogo-kafka",
-      "ref": "github.com/project-flogo/contrib/trigger/kafka",
+      "ref": "github.com/fcastill/flogo-contrib-test/trigger/kafka",
       "settings": {
         "brokerUrls" : "localhost:9092",
         "trustStore" : "" 

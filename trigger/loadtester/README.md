@@ -10,7 +10,7 @@ Implementation based off [go-wrk](github.com/tsliwowicz/go-wrk).
 ## Installation
 
 ```bash
-flogo install github.com/project-flogo/contrib/trigger/loadtester
+flogo install github.com/fcastill/flogo-contrib-test/trigger/loadtester
 ```
 
 ## Configuration    
@@ -39,7 +39,7 @@ Configure the Trigger to load test the 'flow:testflow'
   "triggers": [
     {
       "id": "tester",
-      "ref": "github.com/project-flogo/contrib/trigger/loadtester",
+      "ref": "github.com/fcastill/flogo-contrib-test/trigger/loadtester",
       "settings": {
         "startDelay": 15,
         "duration": 120,

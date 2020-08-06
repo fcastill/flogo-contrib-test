@@ -9,7 +9,7 @@ This trigger provides your flogo application the ability to start an action via 
 ## Installation
 
 ```bash
-flogo install github.com/project-flogo/contrib/trigger/channel
+flogo install github.com/fcastill/flogo-contrib-test/trigger/channel
 ```
 
 ## Configuration    
@@ -37,7 +37,7 @@ Configure the Trigger to handle an event received on the 'test' channel
   "triggers": [
     {
       "id": "flogo-channel",
-      "ref": "github.com/project-flogo/contrib/trigger/channel",
+      "ref": "github.com/fcastill/flogo-contrib-test/trigger/channel",
       "handlers": [
         {
           "settings": {
