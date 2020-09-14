@@ -61,7 +61,7 @@
       {
         "name": "datetimeField",
         "type": "datetime"
-      },
+      }
     ],
     "input":[
       {
