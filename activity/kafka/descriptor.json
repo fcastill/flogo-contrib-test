@@ -11,6 +11,10 @@
     "author": "Wendell Nichols <wnichols@tibco.com>",
     "settings":[
       {
+        "name": "mockConn",
+        "type": "connection"
+      },
+      {
         "name": "brokerUrls",
         "type": "string",
         "required": true,
