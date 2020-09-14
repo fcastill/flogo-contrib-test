@@ -12,7 +12,7 @@
     {
       "name": "network",
       "type": "connection",
-      "description": "Network type",
+      "description": "Network type"
     },
     {
       "name": "host",
