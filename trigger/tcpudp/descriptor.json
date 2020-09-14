@@ -11,10 +11,8 @@
   "settings": [
     {
       "name": "network",
-      "type": "string",
+      "type": "connection",
       "description": "Network type",
-      "allowed": ["tcp", "tcp4", "tcp6", "udp", "udp4", "udp6"],
-      "value": "tcp"
     },
     {
       "name": "host",
